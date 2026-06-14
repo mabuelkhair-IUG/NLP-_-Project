@@ -1,0 +1,10 @@
+rank-bm25==0.2.2
+sentence-transformers
+faiss-cpu
+datasets
+transformers
+scipy
+numpy
+pandas
+matplotlib
+torch
